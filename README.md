@@ -42,7 +42,7 @@ instruction-following-audit/
 | Constraints per prompt | 2 – 4 |
 | Total constraints scored | 152 |
 | Scoring scale | 0 (Fail) / 1 (Partial) / 2 (Pass) |
-| AI model evaluated | GPT-4o (responses collected April 2026) |
+| AI model evaluated | GPT o3 (responses collected April 2026) |
 | Overall compliance rate | **99.4%** |
 
 ---
@@ -209,12 +209,11 @@ To run a reliability check: have a second annotator score a random 10-prompt sam
 
 ## Contact
 
-**Annotator:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Email:** [Your Email]  
+**Annotator:** Muditha Buddhika  
+**Email:** jmudithab@gmail.com 
 
 ---
 
 *Dataset collected and annotated: April 2026*  
-*AI model evaluated: GPT-4o*  
+*AI model evaluated: GPT o3*  
 *Annotation standard: v1.0 — see annotation_guideline.md*
