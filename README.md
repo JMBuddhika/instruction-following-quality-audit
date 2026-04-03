@@ -22,12 +22,11 @@ instruction-following-audit/
 ├── README.md                          ← this file
 ├── annotation_guideline.md            ← full scoring rules, worked examples, IRR guidance
 ├── instruction_following_audit.xlsx   ← main annotation spreadsheet (4 sheets)
-│   ├── Annotation Dataset             ← 50 rows, one per prompt, with scores
-│   ├── Scoring Key                    ← label definitions and color reference
-│   ├── Failure Pattern Tracker        ← tally of 7 failure pattern types
-│   └── Summary Dashboard              ← compliance averages by category
-└── prompts/
-    └── 50_prompts.md                  ← all 50 prompts with constraints listed
+    ├── Annotation Dataset             ← 50 rows, one per prompt, with scores
+    ├── Scoring Key                    ← label definitions and color reference
+    ├── Failure Pattern Tracker        ← tally of 7 failure pattern types
+    └── Summary Dashboard              ← compliance averages by category
+
 ```
 
 ---
